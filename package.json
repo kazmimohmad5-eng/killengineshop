@@ -1,0 +1,13 @@
+
+{
+  "name": "killengine-ui",
+  "version": "1.0.0",
+  "description": "Fake cheat UI overlay",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^29.0.0"
+  }
+}
